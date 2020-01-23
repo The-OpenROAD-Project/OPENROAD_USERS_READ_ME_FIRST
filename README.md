@@ -11,7 +11,7 @@ If you follow this procedure and the rest of the instructions as specified in th
 
 A contribution [guide](https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/doc/OpenRoadArch.md) which explains the philosophy behind the code organization and architecture and also describes the workflow for developers to follow is available. Working with submodules in git is non trivial. If you follow the procedures in the section marked Tool Work Flow, you will have a streamlined way to work efficiently. 
 
-It is also important to pay attention to the (branching methodology)[https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/doc/post_alpha2.1_branch_methodology.md].
+It is also important to pay attention to the [branching methodology](https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/doc/post_alpha2.1_branch_methodology.md).
 
 
 

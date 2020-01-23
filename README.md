@@ -4,7 +4,7 @@ OpenROAD users should look at this repository first for instructions on getting 
 New users should not try to build the individual repo's from their master branches. With the advent of the [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) unified application, all of the needed code is built directly there. The individual repos' master branches should be considered legacy code.
 
 New users should start by following the directions in the [OpenROAD-flow](https://github.com/The-OpenROAD-Project/OpenROAD-flow) repo's [flow README](https://github.com/The-OpenROAD-Project/OpenROAD-flow/blob/master/README.md).
-The procedures for the download of prebuilt binaries, building all of the code in a container, and building all of the code on bare metal are described there. The application submodules all point to stable and well tested versions of code.
+The procedures for the download of prebuilt binaries, building all of the code in a container, and building all of the code on bare metal are described there. The application submodules all point to stable and tested versions of code.
 The [OpenROAD-flow](https://github.com/The-OpenROAD-Project/OpenROAD-flow) repo also contains open source sample designs on an open source PDK. Along with these designs are Makefiles to run the designs through OpenROAD.
 
 OpenROAD is comprised of a set of repos, however they are all integrated into the top level application repo named [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) except for Yosys and TritonRoute which will be integrated soon.

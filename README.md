@@ -1,6 +1,8 @@
 # OPENROAD_USERS_READ_ME_FIRST
 OpenROAD users should look at this repository first for instructions on getting started.
 
+New users should not try to build the individual repo's from their master branches. With the advent of the [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) unified application, all of the needed code is built directly there. The individual repos' master branches should be considered legacy code.
+
 New users should start by following the directions in the [OpenROAD-flow](https://github.com/The-OpenROAD-Project/OpenROAD-flow) repo's [flow README](https://github.com/The-OpenROAD-Project/OpenROAD-flow/blob/master/README.md).
 The procedures for the download of prebuilt binaries, building all of the code in a container, and building all of the code on bare metal are described there. The application submodules all point to stable and well tested versions of code.
 The [OpenROAD-flow](https://github.com/The-OpenROAD-Project/OpenROAD-flow) repo also contains open source sample designs on an open source PDK. Along with these designs are Makefiles to run the designs through OpenROAD.

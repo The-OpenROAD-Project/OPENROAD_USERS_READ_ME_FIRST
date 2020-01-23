@@ -13,10 +13,6 @@ A contribution [guide](https://github.com/The-OpenROAD-Project/OpenROAD/blob/mas
 
 It is also important to pay attention to the [branching methodology](https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/doc/post_alpha2.1_branch_methodology.md).
 
+More information can be found on our project [website](https://theopenroadproject.org/).
 
-
-
-
-
-
-
+Please also follow us on [twitter](https://twitter.com/OpenROAD_EDA) to be notified of important project developments.

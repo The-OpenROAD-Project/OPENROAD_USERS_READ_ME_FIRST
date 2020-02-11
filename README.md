@@ -18,3 +18,6 @@ It is also important to pay attention to the [branching methodology](https://git
 More information can be found on our project [website](https://theopenroadproject.org/).
 
 Please also follow us on [twitter](https://twitter.com/OpenROAD_EDA) to be notified of important project developments.
+
+Please also "star" our project and repos so we know how many people are interested in what we do!
+

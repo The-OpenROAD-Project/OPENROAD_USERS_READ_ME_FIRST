@@ -17,7 +17,8 @@ The top level cmake configuration builds all of them.
 Be sure to clone openroad with the --recursive option to clone all of the submodules in preparation for building.
 If you follow this procedure and the rest of the instructions as specified in the [application README](https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/README.md) you will be able to build the application and all of its submodules.
 Keep in mind that you will need to have the build tools in place that are required for building.
-There is a [DockerFile](https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/Dockerfile) which can be used to build in a container or as a specification of what is needed to build.
+If you wish to use docker you can use the image provided here for [Centos7](https://hub.docker.com/r/openroad/centos7-dev) or [Ubuntu 20.04](https://hub.docker.com/r/openroad/ubuntu20-dev) -- to build a local image see `./etc/DokcerHelper.sh -help`.
+The `./etc/DependencyInstaller.sh` script installs the dependencies needed to build the app -- the script supports Centos7 and Ubuntu 20.04 and requires root access.
 
 A architecture [guide](https://openroad.readthedocs.io/en/latest/contrib/OpenroadArch.html) which explains the philosophy behind the code organization and architecture and also describes the workflow for developers to follow is available.
 Working with submodules in git is non trivial.

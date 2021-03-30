@@ -24,8 +24,6 @@ A architecture [guide](https://openroad.readthedocs.io/en/latest/contrib/Openroa
 Working with submodules in git is non trivial.
 If you follow the procedures in the section marked Tool Work Flow, you will have a streamlined way to work efficiently.
 
-It is also important to pay attention to the [branching methodology](https://github.com/The-OpenROAD-Project/OpenROAD/blob/master/doc/post_alpha2.1_branch_methodology.md).
-
 More information can be found on our project [website](https://theopenroadproject.org/).
 
 Please also follow us on [twitter](https://twitter.com/OpenROAD_EDA) to be notified of important project developments.
